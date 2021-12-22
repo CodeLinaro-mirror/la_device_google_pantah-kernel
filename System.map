@@ -93162,10 +93162,10 @@ ffffffc012215948 D kallsyms_markers
 ffffffc0122161b8 D kallsyms_token_table
 ffffffc012216540 D kallsyms_token_index
 ffffffc01221d4c0 d hci_reset_dev.hw_err
-ffffffc01224d9d0 d max_tt_usecs
-ffffffc01226a3cf d ptychar
-ffffffc0122765cb d task_index_to_char.state_char.8700
-ffffffc012283bb3 d trunc_msg
+ffffffc01224d9d8 d max_tt_usecs
+ffffffc01226a449 d ptychar
+ffffffc012276613 d task_index_to_char.state_char.8700
+ffffffc012283bfb d trunc_msg
 ffffffc01228bce7 d show_irq_gap.zeros
 ffffffc0122a566d d f_midi_shortname
 ffffffc0122d7d57 d f_midi_longname
