@@ -58352,13 +58352,13 @@ ffffffc011d054e8 D kallsyms_markers
 ffffffc011d05d50 D kallsyms_token_table
 ffffffc011d06110 D kallsyms_token_index
 ffffffc011d0d0c4 d hci_reset_dev.hw_err
-ffffffc011d3ce5a d max_tt_usecs
-ffffffc011d59000 d ptychar
+ffffffc011d3ce52 d max_tt_usecs
+ffffffc011d58fb8 d ptychar
 ffffffc011d654bf d task_index_to_char.state_char.8545
 ffffffc011d72c05 d trunc_msg
 ffffffc011d7ad31 d show_irq_gap.zeros
 ffffffc011d94b1c d f_midi_shortname
-ffffffc011dc83dd d f_midi_longname
+ffffffc011dc83ab d f_midi_longname
 ffffffc011e0aa8c d str__initcall__trace_system_name
 ffffffc011e0aa95 d __param_str_initcall_debug
 ffffffc011e0aaa8 d slot_type_char
