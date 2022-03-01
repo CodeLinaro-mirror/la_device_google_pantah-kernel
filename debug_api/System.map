@@ -102683,10 +102683,10 @@ ffffffc0122d8300 D kallsyms_token_index
 ffffffc0122df319 d hci_reset_dev.hw_err
 ffffffc01230f095 d max_tt_usecs
 ffffffc01232b127 d ptychar
-ffffffc0123375d4 d task_index_to_char.state_char.8901
-ffffffc012344c4f d trunc_msg
-ffffffc01234cda6 d show_irq_gap.zeros
-ffffffc012366bbf d f_midi_shortname
+ffffffc012337593 d task_index_to_char.state_char.8901
+ffffffc012344c0e d trunc_msg
+ffffffc01234cd65 d show_irq_gap.zeros
+ffffffc012366bc7 d f_midi_shortname
 ffffffc01239a583 d f_midi_longname
 ffffffc0123dc834 d str__initcall__trace_system_name
 ffffffc0123dc83d d __param_str_initcall_debug
