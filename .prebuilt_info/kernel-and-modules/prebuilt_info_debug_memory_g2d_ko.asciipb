@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8355548"
+    build_id: "8356299"
     target: "cloudripper_debug_memory"
     source_file: "g2d.ko"
   }
