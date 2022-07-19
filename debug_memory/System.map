@@ -105761,10 +105761,10 @@ ffffffc012100538 d hci_reset_dev.hw_err
 ffffffc012135b70 d max_tt_usecs
 ffffffc012154a0e d ptychar
 ffffffc01216207c d task_index_to_char.state_char.10003
-ffffffc012170e1e d trunc_msg
-ffffffc012179cd1 d show_irq_gap.zeros
-ffffffc012195f56 d f_midi_shortname
-ffffffc0121cede2 d f_midi_longname
+ffffffc012170df1 d trunc_msg
+ffffffc012179ca4 d show_irq_gap.zeros
+ffffffc012195f5e d f_midi_shortname
+ffffffc0121cedea d f_midi_longname
 ffffffc012215494 d str__initcall__trace_system_name
 ffffffc01221549d d __param_str_initcall_debug
 ffffffc0122154b0 d slot_type_char
