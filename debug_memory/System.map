@@ -105767,9 +105767,9 @@ ffffffc012135d65 d max_tt_usecs
 ffffffc012154c03 d ptychar
 ffffffc012162271 d task_index_to_char.state_char.10003
 ffffffc012170fe6 d trunc_msg
-ffffffc012179ec6 d show_irq_gap.zeros
-ffffffc01219614b d f_midi_shortname
-ffffffc0121cefb8 d f_midi_longname
+ffffffc012179e99 d show_irq_gap.zeros
+ffffffc01219616a d f_midi_shortname
+ffffffc0121cefd7 d f_midi_longname
 ffffffc012215654 d str__initcall__trace_system_name
 ffffffc01221565d d __param_str_initcall_debug
 ffffffc012215670 d slot_type_char
