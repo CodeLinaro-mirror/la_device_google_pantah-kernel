@@ -67769,10 +67769,10 @@ ffffffc81238d378 D kallsyms_token_index
 ffffffc812394513 d hci_reset_dev.hw_err
 ffffffc8123c4bc4 d max_tt_usecs
 ffffffc8123e1049 d ptychar
-ffffffc8123ecf1f d task_index_to_char.state_char
-ffffffc8123ecf1f d task_index_to_char.state_char
-ffffffc8123ecf1f d task_index_to_char.state_char
-ffffffc8123fab3a d trunc_msg
+ffffffc8123ecf60 d task_index_to_char.state_char
+ffffffc8123ecf60 d task_index_to_char.state_char
+ffffffc8123ecf60 d task_index_to_char.state_char
+ffffffc8123fab7b d trunc_msg
 ffffffc81241d294 d f_midi_shortname
 ffffffc812450f2c d f_midi_longname
 ffffffc812478548 d slot_type_char

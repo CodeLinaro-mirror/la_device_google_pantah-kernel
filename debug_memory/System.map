@@ -105779,10 +105779,10 @@ ffffffc0120f7c00 D kallsyms_markers
 ffffffc0120f8748 D kallsyms_token_table
 ffffffc0120f8b00 D kallsyms_token_index
 ffffffc012100508 d hci_reset_dev.hw_err
-ffffffc012135bcf d max_tt_usecs
-ffffffc012154abe d ptychar
-ffffffc01216212c d task_index_to_char.state_char.10025
-ffffffc012170ec4 d trunc_msg
+ffffffc012135bb9 d max_tt_usecs
+ffffffc012154aa8 d ptychar
+ffffffc012162116 d task_index_to_char.state_char.10025
+ffffffc012170ef7 d trunc_msg
 ffffffc012179da6 d show_irq_gap.zeros
 ffffffc012196043 d f_midi_shortname
 ffffffc0121cef1f d f_midi_longname
